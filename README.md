@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azam-web778</h1>
-<h3 align="center">I am a full stack developer.I have a lot of skills and knowledges Like HTML , CSS , Javscript , Typescript , Firebase , Reactjs , Nextjs , Nodejs , Expressjs , MongoDB , SQL</h3>
+<h3 align="center">I am a full stack developer.I have a lot of skills and knowledges Like HTML , CSS , Javscript , Typescript , Firebase , Reactjs , Nextjs , Nodejs , Expressjs , MongoDB , SQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azam-web788&label=Profile%20views&color=0e75b6&style=flat" alt="azam-web788" /> </p>
 
