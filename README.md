@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azam-web778</h1>
 <h3 align="center">I am a full stack developer.I have a lot of skills and knowledges Like HTML , CSS , Javscript , Typescript , Firebase , Reactjs , Nextjs , Nodejs , Expressjs , MongoDB , SQL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azam-web788&label=Profile%20views&color=0e75b6&style=flat" alt="azam-web788" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azam-web788" alt="azam-web788" /></a> </p>
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align = "right"  width="250" height="250">
 
 - 🌱 I’m currently learning **mySQL**
 
