@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azam-web778</h1>
+<h1 align="center">Hi 👋, I'm Azam-web788</h1>
 <h3 align="center">I am a full stack developer.I have a lot of skills and knowledges Like HTML , CSS , Javscript , Typescript , Firebase , Reactjs , Nextjs , Nodejs , Expressjs , MongoDB , SQL.</h3>
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align = "right"  width="250" height="250">
